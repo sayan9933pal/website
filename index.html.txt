@@ -1,0 +1,119 @@
+<html>
+    <head>
+   <title></title>     
+    </head>
+    <body
+        background-image:https://images.unsplash.com/photo-1709990742217-cd21721a2afc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3NHx8fGVufDB8fHx8fA%3D%3D>
+        <!---header--->
+
+
+       <table border="0" width="100%" cellspacing="0" bgcolor="#673de6">
+       <tr><td>
+        <table border="0" width = "85%" align="center" cellpadding="15">
+        <tr>
+         <td><font face="Open Sans"size"5" color="white"><b>Sayan</b></font></td>
+         <td width="20%"></td>           
+         <td><a href="#"><font color="white">Home</font></a></td>  
+         <td><a href="#"><font color="white">Services</font></a></td>  
+         <td><a href="#"><font color="white">Skills</font></a></td>  
+         <td><a href="#"><font color="white">Team</font></a></td>  
+         <td><a href="#"><font color="white">Contact Us</font></a></td>  
+        </td></tr>
+        </table>
+       </tr> 
+       </table> 
+         <!---End header--->
+         <!---Home--->
+         <table>
+            <tr><td>
+                <table width="85%" border="0" align="center"cellpadding="15px">
+                    <tr>
+                        <td> 
+                              <h1>Hi i am Sayan<font face="Open Sans"size="3"</h1>
+                              <h1>I am an engineering student of aot college. Which is affiliated by MAKAUT . My decipline is ECE .<font face="Open Sans"size="7"</h1>
+                              <font size="3"></font>
+                              <hr>
+                            
+                             <a href="https://www.facebook.com/sayan.pal.9849912 " <button>Facebook</button></a>
+                             <a href="https://www.linkedin.com/in/sayan-pal-7468782ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " <button>Linkedin</button></a>
+
+
+                        </td>
+                        <td>
+
+                             <img scr=""
+
+                        </td>
+                    </tr>
+                </table>
+             </td></tr>
+         </table>
+         <!---End Home--->
+
+         <!---Services--->
+        <table width="100%"bgcolor="#fafbff">
+        <tr><td>
+        
+        <table width="85%"border="0" align="center"cellpadding="15px">
+        <tr align="center">
+        <td colspan="3">
+        <font size="6" face="Open Sans">Services</font><br>
+         <hr align="center" width="10%">
+         <font size="2" face="Open Sans">These are our Services</font><br>
+            </td>
+            </tr>
+            <tr align="center">
+        <td>
+
+            <img src="img/app-development.png" width="15%"><br>
+            <font size="5"> App Development</font><br><br>
+            <font size="3"> some text</font>
+
+        </td>
+        <td>
+             <img src="img/management-service.png" width="15%"><br>
+            <font size="5"> Digital Marketing</font><br><br>
+            <font size="3"> some text</font>
+</td> 
+        <td>
+             <img src="img/coding.png" width="15%"><br>
+            <font size="5"> Web Development</font><br><br>
+            <font size="3"> some text</font>
+</td>  
+
+        </tr>
+        </table>
+
+        </td></tr>
+        </table>
+
+
+         <!---End Services--->
+          <!---Skills--->
+          <table width="100%" bgcolor="#25282f"
+           <tr>
+            <td>
+           <table border="0" width="85%" align="center" cellpadding="15px">
+            <tr align="center"><td colspan="2"><font face="Open Sans"size="6"color="#fff">Skills</font>
+            <hr align="center" width="7%">  </td>
+            </tr>
+        
+            <tr>
+                <td><label><font size="5"color="#fff">HTML5</font></label><progress value="95" max="100">95%</progress> </td>
+               
+            </tr>
+           
+
+           </table>  
+
+
+            </td>
+           </tr>
+           <!---End Skills--->
+
+
+
+
+
+
+    </body>
